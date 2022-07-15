@@ -11,7 +11,7 @@ In the first part of the code, we can find the startTime and endTime variables. 
 
 After that, we activate that worksheet from which the next part of the code will take action. Then, we add titles and subtitles for each column. Then have the tickers array, this section is very useful, the code will loop through that and compare data. 
 
-![Code1](https://github.com/DylanMontemayor/VBA_Challenge/Resources/Code1.png)
+![Code1](https://github.com/DylanMontemayor/VBA_Challenge/blob/main/Resources/Code1.png)
 
 In the next section, we declare the next variables that are going to be used: tickerIndex, the i iterator, tickerVolumes, and Startind and Ending Prices. 
 
